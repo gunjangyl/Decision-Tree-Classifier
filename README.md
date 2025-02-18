@@ -32,7 +32,7 @@ Each sample belongs to one of **three classes**:
 
 ## Installation & Usage 🔧  
 ### 1️⃣ Clone the Repository  
-git clone https://github.com/your-username/DecisionTree-Iris.git
+git clone https://github.com/gunjangyl/DecisionTree-Iris.git
 cd DecisionTree-Iris
 
 2️⃣ Install Dependencies
