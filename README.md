@@ -32,19 +32,21 @@ Each sample belongs to one of **three classes**:
 
 ## Installation & Usage 🔧  
 ### 1️⃣ Clone the Repository  
-```bash
 git clone https://github.com/your-username/DecisionTree-Iris.git
 cd DecisionTree-Iris
+
 2️⃣ Install Dependencies
 bash
 Copy
 Edit
 pip install -r requirements.txt
+
 3️⃣ Run the Script
 bash
 Copy
 Edit
 python decision_tree_iris.py
+
 Results & Observations 📈
 The Decision Tree classifier achieves high accuracy on the test dataset.
 The tree structure helps in understanding feature importance.
@@ -56,6 +58,7 @@ Edit
 [[50  0  0]  
  [ 0 48  2]  
  [ 0  1 49]]
+ 
 📌 Contributing
 Contributions are welcome! Feel free to fork the repo and improve the model.
 
